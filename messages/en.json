@@ -1,0 +1,61 @@
+{
+    "header": {
+        "itemTitle": "Title",
+        "subTitle": "Contact us"
+    },
+    "accueil": {
+        "header": "Explore the Possibilities of AI Chatting with",
+        "subHeader": "Unleash the power of AI within Brainwave. Upgrade your productivity with Brainwave, the open AI chat app.",       
+        "titleButton": "started",
+        "codeGeneration": "Code generation"     
+    },
+    "companyLogos":{
+        "title" : "Helping people create beautiful content at"
+    },
+    "benefits":{
+        "title" : "Chat Smarter, Not Harder with Brainwave",
+        "exploreMore": "Explore more",
+        "itemTitle": "Ask anything",
+        "itemDesc" : "Lets users quickly find answers to their questions without having to search through multiple sources."
+    },
+    "collaboration":{
+        "title" : "AI Chat App for seamless collaboration",
+        "button": "Try it now"
+    },
+    "service":{
+        "title" : "Generative AI made for creators.",
+        "subTitle": "Brainwave unlocks the potential of AI-powered applications",
+        "header": "Smartest AI",
+        "photoEdit": "Photo Editing",
+        "paraPhoto": "Automatically enhance your photos using our AI app&apos;s photo editing feature. Try it now!",
+        "videoEdit": "Video generation",
+        "paraVideo": "The world’s most powerful AI photo and video art generation engine. What will you create?"
+    },
+    "pricing":{
+        "fullDetails" : "see the full details",
+        "tag": "Get started with Brainwave",
+        "title": "Pay once, use forever",
+        "button1": "Get started",
+        "button2": "Contact us",
+        "offer": "Offer",
+        "description": "AI chatbot, personalized recommendations",
+        "list": "An AI chatbot that can understand your queries"
+        
+    },
+    "roadmap":{
+        "button" : "see the full details",
+        "tag": "ready to get started",
+        "title": "what we're working on",
+        "itemTitle": "Voice recognition",
+        "itemDesc": "Enable the chatbot to understand and respond to voice commands, making it easier for users to interact with the app hands-free."
+         
+    },
+    "footer":{
+        "droit": "All rights reserved"
+    },
+    "language":{
+        "langue": "Language",
+        "french": "French",
+        "english": "English"
+    }
+}

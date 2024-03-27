@@ -1,0 +1,62 @@
+{
+    "header": {
+        "itemTitle": "Titre",
+        "subTitle": "Contactez-nous"
+    },
+    "accueil": {
+        "header": "Explorez les possibilités de discussion avec l'IA",
+        "subHeader": "Libérez la puissance de l’IA dans Brainwave. Améliorez votre productivité avec Brainwave, l'application de chat ouverte par IA.",       
+        "titleButton": "Commencer",
+        "codeGeneration": "Génération de code"     
+    },
+    "companyLogos":{
+        "title" : "Aider les gens à créer du beau contenu"
+    },
+    "benefits":{
+        "title" : "Discutez plus intelligemment, pas plus fort avec Brainwave",
+        "exploreMore": "Explorer plus",
+        "itemTitle": "Demander n'importe quoi",
+        "itemDesc" : "Permet aux utilisateurs de trouver rapidement des réponses à leurs questions sans avoir à rechercher dans plusieurs sources."
+    },
+    "collaboration":{
+        "title" : "Application AI Chat pour une collaboration transparente",
+        "button": "Essayez-le maintenant"
+    },
+    "service":{
+        "title" : "IA générative conçue pour les créateurs.",
+        "subTitle": "Brainwave libère le potentiel des applications basées sur l'IA",
+        "header": "L'IA la plus intelligente",
+        "photoEdit": "Édition de photos",
+        "paraPhoto": "Améliorez automatiquement vos photos à l'aide de la fonction de retouche photo de notre application AI. Essayez-le maintenant!",
+        "videoEdit": "Génération vidéo",
+        "paraVideo": "Le moteur de génération d’art photo et vidéo IA le plus puissant au monde. Qu'allez-vous créer ?"
+    
+    },
+    "pricing":{
+        "fullDetails" : "Voir tous les détails",
+        "tag": "Commencez avec Brainwave",
+        "title": "Payez une fois, utilisez pour toujours",
+        "button1": "Commencer",
+        "button2": "Contactez-nous",
+        "offer": "Offre",
+        "description": "Chatbot IA, recommandations personnalisées",
+        "list": "Un chatbot IA capable de comprendre vos requêtes"
+        
+    },
+    "roadmap":{
+        "button" : "Voir tous les détails",
+        "tag": "Prêt à commencer",
+        "title": "Sur quoi nous travaillons",
+        "itemTitle": "Reconnaissance vocale",
+        "itemDesc": "Permettez au chatbot de comprendre et de répondre aux commandes vocales, permettant ainsi aux utilisateurs d'interagir plus facilement avec l'application en mains libres."
+         
+    },
+    "footer":{
+        "droit": "Tous droits réservés"
+    },
+    "language":{
+        "langue": "Langue",
+        "french": "Francais",
+        "english": "Anglais"
+    }
+}
